@@ -17,4 +17,15 @@ namespace webApp.Models
         //heloo
 
     }
+     public class Emp
+    {
+        public int id { get; set; }
+        public string Firstname { get; set; }
+        public string Lastname { get; set; }
+        public string location { get; set; }
+        public string department { get; set; }
+        public double salery { get; set; }
+        //heloo
+
+    }
 }
