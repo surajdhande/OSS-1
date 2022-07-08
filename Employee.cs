@@ -14,6 +14,7 @@ namespace webApp.Models
         public string location { get; set; }
         public string department { get; set; }
         public double salery { get; set; }
+        //heloo
 
     }
 }
