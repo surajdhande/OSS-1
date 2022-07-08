@@ -5,7 +5,7 @@ using System.Web;
 
 namespace webApp.Models
 {
-    [Serializable]
+  
     public class Employee
     {
         public int id { get; set; }
